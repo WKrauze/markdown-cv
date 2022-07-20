@@ -67,7 +67,7 @@ __Warsaw University of Technology__
 ## Recent Awards
 
 `2021`
-First-degree Group Award for exceptional scientific achievements, *Rector of Warsaw University of Technology*
+First-degree Group Award for exceptional scientific achievements, __Rector of Warsaw University of Technology__
 
 
 
@@ -75,9 +75,6 @@ First-degree Group Award for exceptional scientific achievements, *Rector of War
 ## Publications
 
 Full list available: [online](https://scholar.google.pl/citations?user=PHKwIp8AAAAJ)
-
-### Journals
-
 
 
 `2022`
