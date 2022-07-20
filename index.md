@@ -16,36 +16,36 @@ Warsaw University of Technology, manager of the Horizon 2020 project [REVEAL](ht
 
 ### Specialized in
 
-quantitative phase imaging, holographic microscopy & tomography, label-free analysis of biological samples: cells, tissues, organoids
+image processing, quantitative phase imaging, holographic microscopy & tomography, label-free analysis of biological samples: cells, tissues, organoids
 
-## Experience (excerpt)
+## Experience
 
 `2022`
 __AgilePM foundation certificate__
 
 
 `2021-now`
-__horizon 2020 ict-36 project [REVEAL](http://reveal-h2020.eu/), warsaw university of technology__
+__Horizon 2020 ict-36 project [REVEAL](http://reveal-h2020.eu/)__ Warsaw University of Technology
 
 - project manager at warsaw uni. of technology and primary investigator
 
 `2016-2021`
-__fnp team-tech project [BiOpTo](https://www.biophase.pl/), warsaw university of technology__
+__FNP Team-Tech project [BiOpTo](https://www.biophase.pl/)__ Warsaw University of Technology
 
 - phd student and postdoc; my responsibility in the project was development of tomographic reconstruction algorithms for the optical tomography system (matlab & python)
 
 `2016 - 2018`
-__ncn preludium project, warsaw university of technology__
+__NCN Preludium project__ Warsaw University of Technology
 
 - manager of the project; the main goal of the project was to increase depth of focus in optical tomography systems; the methods were developed in matlab and python
 
 `2015`
-__actphast project, warsaw university of technology__
+__Actphast project__ Warsaw University of Technology
 
 - contractor of the project realized for the Italray s.r.l. company; my task was to prepare a numerical reconstruction and denoising procedure in matlab for the x-ray tomosynthesis system. I was also responsible for the contact with the company (including visiting the company, setting project requirements, documentation); the developed solution has been successfully implemented in the final product
 
 `2014`
-__centrum wiskunde & informatica__
+__Centrum Wiskunde & Informatica__
 
 - 1-month-long matlab training in cwi, amsterdam, in the field of numerical methods for image processing on the gpu
 
