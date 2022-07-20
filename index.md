@@ -25,29 +25,29 @@ __AgilePM foundation certificate__
 
 
 `2021-now`
-__Horizon 2020 ict-36 project [REVEAL](http://reveal-h2020.eu/)__ Warsaw University of Technology
+__Horizon 2020 ict-36 project [REVEAL](http://reveal-h2020.eu/)__; Warsaw University of Technology
 
 - project manager at warsaw uni. of technology and primary investigator
 
 `2016-2021`
-__FNP Team-Tech project [BiOpTo](https://www.biophase.pl/)__ Warsaw University of Technology
+__FNP Team-Tech project [BiOpTo](https://www.biophase.pl/)__; Warsaw University of Technology
 
 - phd student and postdoc; my responsibility in the project was development of tomographic reconstruction algorithms for the optical tomography system (matlab & python)
 
 `2016 - 2018`
-__NCN Preludium project__ Warsaw University of Technology
+__NCN Preludium project__; Warsaw University of Technology
 
 - manager of the project; the main goal of the project was to increase depth of focus in optical tomography systems; the methods were developed in matlab and python
 
 `2015`
-__Actphast project__ Warsaw University of Technology
+__Actphast project__; Warsaw University of Technology
 
-- contractor of the project realized for the Italray s.r.l. company; my task was to prepare a numerical reconstruction and denoising procedure in matlab for the x-ray tomosynthesis system. I was also responsible for the contact with the company (including visiting the company, setting project requirements, documentation); the developed solution has been successfully implemented in the final product
+- contractor of the project realized for the Italray s.r.l. company; I was also responsible for the contact with the company (including visiting the company, setting project requirements, documentation); the developed solution has been successfully implemented in the final product
 
 `2014`
-__Centrum Wiskunde & Informatica__
+__Training__; Centrum Wiskunde & Informatica
 
-- 1-month-long matlab training in cwi, amsterdam, in the field of numerical methods for image processing on the gpu
+- 1-month matlab training in CWI, Amsterdam, in the field of numerical methods for image processing on the gpu
 
 ## Education
 
@@ -73,9 +73,11 @@ First-degree Group Award for exceptional scientific achievements, *Rector of War
 
 ## Publications (excerpt)
 
-<!-- Full list available: [online](https://scholar.google.pl/citations?user=PHKwIp8AAAAJ) -->
+Full list available: [online](https://scholar.google.pl/citations?user=PHKwIp8AAAAJ)
 
 ### Journals
+
+
 
 `2022`
 P. Stȩpień, W. Krauze, M. Kujawińska "Preprocessing methods for quantitative phase image stitching," Biomed. Opt. Express 13.
