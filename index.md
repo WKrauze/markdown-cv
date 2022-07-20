@@ -12,11 +12,11 @@ photonics engineer, assistant professor.
 
 ## Currently
 
-Standing on the shoulders of giants
+Warsaw University of Technology, manager of the Horizon 2020 project [REVEAL](http://reveal-h2020.eu/)
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Quantitative phase imaging, holographic microscopy & tomography, label-free analysis of biological samples: cells, tissues, organoids...
 
 
 ### Research interests
@@ -26,48 +26,41 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2018-now`
+__Warsaw University of Technology__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- Assistant professor
 
-- Sizar
+`2013 - 2018`
+__Warsaw University of Technology__
 
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+- PhD student
 
 
 
-## Awards
+## Recent Awards
 
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+`2021`
+First-degree Group Award for exceptional scientific achievements, *Rector of Warsaw University of Technology*
 
 
 
-## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+## Publications (excerpt)
+
+<!-- Full list available: [online](https://scholar.google.pl/citations?user=PHKwIp8AAAAJ) -->
 
 ### Journals
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+`2022`
+P. Stȩpień, W. Krauze, M. Kujawińska "Preprocessing methods for quantitative phase image stitching," Biomed. Opt. Express 13.
 
-`1669`
-Lectiones opticæ.
+`2020`
+W. Krauze "Optical diffraction tomography with finite object support for the minimization of missing cone artifacts" Biomed. Opt. Express 11(4).
 
-etc. etc. etc.
+`2018`
+W. Krauze, A. Kuś, D. Śladowski, E. Skrzypek, M. Kujawińska, Reconstruction method for extended depth-of-field optical diffraction tomography. Methods 136. 
 
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
 
 
 ## Occupation
@@ -85,6 +78,6 @@ __Lucasian professor of Mathematics__, Cambridge University
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: July 2022 -->
 
 
