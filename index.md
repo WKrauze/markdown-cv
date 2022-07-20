@@ -16,19 +16,38 @@ Warsaw University of Technology, manager of the Horizon 2020 project [REVEAL](ht
 
 ### Specialized in
 
-Quantitative phase imaging, holographic microscopy & tomography, label-free analysis of biological samples: cells, tissues, organoids...
+quantitative phase imaging, holographic microscopy & tomography, label-free analysis of biological samples: cells, tissues, organoids
 
-## Experience
+## Experience (excerpt)
+
+`2022`
+__AgilePM foundation certificate__
+
+
+`2021-now`
+__horizon 2020 ict-36 project [REVEAL](http://reveal-h2020.eu/), warsaw university of technology__
+
+- project manager at warsaw uni. of technology and primary investigator
 
 `2016-2021`
-__Warsaw University of Technology__
+__fnp team-tech project [BiOpTo](https://www.biophase.pl/), warsaw university of technology__
 
-- PhD student and PostDoc in TEAM-TECH project of FNP: “BiOpTo: Tomographic phase microscope for biomedical applications”. My responsibility in the project is development of tomographic reconstruction algorithms for the optical tomography system (Matlab & Python).
+- phd student and postdoc; my responsibility in the project was development of tomographic reconstruction algorithms for the optical tomography system (matlab & python)
 
-`2013 - 2018`
-__Warsaw University of Technology__
+`2016 - 2018`
+__ncn preludium project, warsaw university of technology__
 
-- PhD student
+- manager of the project; the main goal of the project was to increase depth of focus in optical tomography systems; the methods were developed in matlab and python
+
+`2015`
+__actphast project, warsaw university of technology__
+
+- contractor of the project realized for the Italray s.r.l. company; my task was to prepare a numerical reconstruction and denoising procedure in matlab for the x-ray tomosynthesis system. I was also responsible for the contact with the company (including visiting the company, setting project requirements, documentation); the developed solution has been successfully implemented in the final product
+
+`2014`
+__centrum wiskunde & informatica__
+
+- 1-month-long matlab training in cwi, amsterdam, in the field of numerical methods for image processing on the gpu
 
 ## Education
 
@@ -67,18 +86,6 @@ W. Krauze "Optical diffraction tomography with finite object support for the min
 `2018`
 W. Krauze, A. Kuś, D. Śladowski, E. Skrzypek, M. Kujawińska, Reconstruction method for extended depth-of-field optical diffraction tomography. Methods 136. 
 
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
 
 
 
