@@ -7,6 +7,7 @@ photonics engineer, assistant professor.
 
 <div id="webaddress">
 <a href="wojciech.krauze@pw.edu.pl">wojciech.krauze@pw.edu.pl</a>
+  | <a href="+48 691644129">+48 691644129</a>
 </div>
 
 
@@ -59,7 +60,7 @@ __Warsaw University of Technology__
 `2013 - 2018`
 __Warsaw University of Technology__
 
-- PhD student
+- phd student
 
 
 
@@ -71,7 +72,7 @@ First-degree Group Award for exceptional scientific achievements, *Rector of War
 
 
 
-## Publications (excerpt)
+## Publications
 
 Full list available: [online](https://scholar.google.pl/citations?user=PHKwIp8AAAAJ)
 
