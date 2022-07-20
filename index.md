@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Wojciech Krauze
+title: Wojciech Krauze, PhD
 ---
 # Wojciech Krauze
 photonics engineer, assistant professor.
@@ -18,18 +18,24 @@ Warsaw University of Technology, manager of the Horizon 2020 project [REVEAL](ht
 
 Quantitative phase imaging, holographic microscopy & tomography, label-free analysis of biological samples: cells, tissues, organoids...
 
+## Experience
 
-### Research interests
+`2016-2021`
+__Warsaw University of Technology__
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+- PhD student and PostDoc in TEAM-TECH project of FNP: “BiOpTo: Tomographic phase microscope for biomedical applications”. My responsibility in the project is development of tomographic reconstruction algorithms for the optical tomography system (Matlab & Python).
 
+`2013 - 2018`
+__Warsaw University of Technology__
+
+- PhD student
 
 ## Education
 
 `2018-now`
 __Warsaw University of Technology__
 
-- Assistant professor
+- assistant professor
 
 `2013 - 2018`
 __Warsaw University of Technology__
