@@ -6,8 +6,8 @@ title: Wojciech Krauze, PhD
 photonics engineer, assistant professor.
 
 <div id="webaddress">
-<a href="wojciech.krauze@pw.edu.pl">wojciech.krauze@pw.edu.pl</a>
-  | <a href="+48 691644129">+48 691644129</a>
+wojciech.krauze@pw.edu.pl
+  | +48 691644129
 </div>
 
 
